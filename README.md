@@ -186,17 +186,26 @@ lib/
 ## 📄 الترخيص
 تم تطوير هذا التطبيق كنموذج عملي لمشروع تخرج متكامل لتطبيق رعاية وتمريض منزلي. جميع الحقوق محفوظة لفريق رِعاية © 2026.
 ---
+# 🏥 REAYA | تطبيق رِعاية
 
-## 🌐 Live Interactive Preview | المعاينة التفاعلية المباشرة
-
-يمكنك تجربة واجهات التطبيق الـ 19 والتفاعل مع النماذج الذكية (REAYA Sense & Handover) مباشرة عبر الرابط التالي:
-
-👉 [**اضغط هنا لمعاينة النموذج التجريبي المباشر (REAYA Live App Demo)**](https://reham-ramadan.github.io/reaya_patient_app/)
-
-> 💡 **ملاحظة:** تم بناء وتصميم واجهات التطبيق بنسبة 100% باستخدام **Flutter & Dart** الداعمة لنظام Arabic-First RTL والـ Clean Architecture.
+تطبيق طيبي متكامل مخصص لإدارة الرعاية الصحية، مبني باستخدام **Flutter & Dart**، بدعم كامل للغة العربية (**Arabic-First RTL**) مع تطبيق أفضل الممارسات الهندسية (**Clean Architecture**).
 
 ---
 
-<p align="center">
-  <b>فريق رِعاية © 2026 — جميع الحقوق محفوظة</b>
-</p>
+## 🌐 النسخة التجريبية الحية | Live Interactive Preview
+
+يمكنك تجربة تطبيق **رِعاية** مباشرة عبر المتصفح بالضغط على الزر أدناه:
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live_Preview-2ea44f?style=for-the-badge&logo=flutter&logoColor=white)](https://reham-ramadan.github.io/REAYA/)
+
+👉 **الرابط المباشر:** [https://reham-ramadan.github.io/REAYA/](https://reham-ramadan.github.io/REAYA/)
+
+---
+
+## 🛠️ التقنيات المستخدمة | Tech Stack
+
+- **Framework:** Flutter (Web & Mobile)
+- **Language:** Dart
+- **Architecture:** Clean Architecture
+- **UI/UX:** Arabic RTL Design Pattern
+-

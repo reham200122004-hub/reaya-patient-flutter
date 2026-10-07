@@ -1,0 +1,6 @@
+{
+  "name": "رِعاية — REAYA",
+  "description": "تطبيق رِعاية للتمريض والرعاية المنزلية المتكاملة - تطبيق Flutter وDart كامل مع 19 شاشة حقيقية ونظام REAYA Sense",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

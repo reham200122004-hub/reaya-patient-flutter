@@ -191,21 +191,6 @@ lib/
 تطبيق طيبي متكامل مخصص لإدارة الرعاية الصحية، مبني باستخدام **Flutter & Dart**، بدعم كامل للغة العربية (**Arabic-First RTL**) مع تطبيق أفضل الممارسات الهندسية (**Clean Architecture**).
 
 ---
+## 🚀 Live Demo
 
-## 🌐 النسخة التجريبية الحية | Live Interactive Preview
-
-يمكنك تجربة تطبيق **رِعاية** مباشرة عبر المتصفح بالضغط على الزر أدناه:
-
-[![Live Demo](https://img.shields.io/badge/Demo-Live_Preview-2ea44f?style=for-the-badge&logo=flutter&logoColor=white)](https://reham-ramadan.github.io/REAYA/)
-
-👉 **الرابط المباشر:** [https://reham-ramadan.github.io/REAYA/](https://reham-ramadan.github.io/REAYA/)
-
----
-
-## 🛠️ التقنيات المستخدمة | Tech Stack
-
-- **Framework:** Flutter (Web & Mobile)
-- **Language:** Dart
-- **Architecture:** Clean Architecture
-- **UI/UX:** Arabic RTL Design Pattern
--
+[▶️ تجربة تطبيق رِعاية](https://reaya-app.ai.studio/)
